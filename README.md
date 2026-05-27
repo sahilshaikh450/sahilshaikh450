@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=250&section=header&text=Sahil%20Shaikh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20MCA%20Student%20|%20DSA%20Enthusiast&descAlignY=60&descAlign=50" />
@@ -153,4 +153,3 @@ Become a top software engineer through consistency, projects, and problem-solvin
 ### “Success in coding comes from consistency, not intensity.”
 
 </div>
-```

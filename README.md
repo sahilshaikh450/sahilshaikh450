@@ -3,56 +3,42 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=250&section=header&text=Sahil%20Shaikh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20MCA%20Student%20|%20DSA%20Enthusiast&descAlignY=60&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Developer;150%2B+LeetCode+Problems+Solved;DSA+Problem+Solver;Full+Stack+Learner;Future+Software+Engineer;Building+Projects+with+Consistency" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer;DSA+Problem+Solver;Full+Stack+Learner;Future+Software+Engineer;Building+Projects+with+Consistency" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 The Mission
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 MCA Student at MIT World Peace University, Pune
+I am passionate about building scalable software, solving real-world problems, and continuously improving my coding skills through Data Structures, Algorithms, and Full Stack Development.
 
-💻 Passionate about:
-- Java Development
-- Data Structures & Algorithms
-- Full Stack Development
-- AI & Backend Engineering
-
-🔥 Solved 150+ LeetCode problems with consistent daily practice
-
-⚡ Currently Learning:
-- Spring Boot
-- Advanced Java
-- System Design
-- Backend Development
-
-🎯 Goal:
-Become a top software engineer through consistency, projects, and problem-solving.
-
-> "Consistency beats motivation every time."
+* 🔥 Currently Working On: Java + DSA + Full Stack Projects
+* 📚 Currently Learning: Spring Boot, Advanced Java, System Design
+* ⚡ Fun Fact: Consistency in coding beats motivation every time
+* 🎯 Dream: Become a Top Software Engineer
 
 <br>
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 My Digital Arsenal
 
-## 💻 Languages
+## 💻 Languages & Core Logic
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" />
 </p>
 
-## 🎨 Frontend & UI
+## 🎨 Frontend & UI Engineering
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
-## ⚙ Backend & Database
+## ⚙ Backend + Database
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
@@ -66,10 +52,10 @@ Become a top software engineer through consistency, projects, and problem-solvin
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophy Zone
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh450&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh450&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
@@ -78,24 +64,10 @@ Become a top software engineer through consistency, projects, and problem-solvin
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilshaikh450&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilshaikh450&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=sahilshaikh450&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh450&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sahilshaikh450/sahilshaikh450/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
@@ -108,7 +80,7 @@ Become a top software engineer through consistency, projects, and problem-solvin
 
 ---
 
-# 🌐 Connect With Me
+# 🔗 Connect With Me
 
 <p align="center">
 

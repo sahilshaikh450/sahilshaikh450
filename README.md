@@ -21,11 +21,7 @@
 
 ## 🧑‍🚀 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=F27121&center=false&vCenter=true&width=560&height=30&lines=whoami" />
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```java
 public class Sahil extends SoftwareEngineer {
@@ -56,24 +52,7 @@ public class Sahil extends SoftwareEngineer {
 
 > ⚡ *Fun fact: consistency in coding beats motivation, every single time.*
 
-</td>
-<td width="42%" valign="top">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=400&color=00F7FF&center=false&vCenter=true&multiline=true&repeat=true&width=420&height=170&lines=%24+booting+sahil.exe...;%5B%E2%9C%93%5D+loading+java+core;%5B%E2%9C%93%5D+mounting+spring-boot;%5B%E2%9C%93%5D+syncing+react-frontend;%5B%E2%9C%93%5D+connecting+mysql;%5B%E2%9C%93%5D+deploy+success;%3E+ready+to+ship+%F0%9F%9A%80" />
-
-<br>
-
-**Skill Level**
-```
-Java        ████████████████░░  85%
-Spring Boot ██████████████░░░░  75%
-React       █████████████░░░░░  70%
-DSA         ███████████████░░░  78%
-```
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F27121,50:E94057,100:8A2387&height=4&section=header" width="100%">
 

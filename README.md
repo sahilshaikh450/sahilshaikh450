@@ -21,7 +21,11 @@
 
 ## 🧑‍🚀 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=F27121&center=false&vCenter=true&width=560&height=30&lines=whoami" />
 
 ```java
 public class Sahil extends SoftwareEngineer {
@@ -42,13 +46,26 @@ public class Sahil extends SoftwareEngineer {
 }
 ```
 
-- 🔭 Currently building **AVIRO** — a verified ride-sharing platform for college students
-- ⚙️ Also shipping **Life OS** (productivity suite) & a **RAG Agent** from scratch
-- 📚 Deep in **Spring Boot, Advanced Java & System Design**
-- ⚡ Fun fact: *consistency in coding beats motivation, every single time*
-- 🎯 Goal: become a top-tier Software Engineer
+<img src="https://img.shields.io/badge/🔭_Building-AVIRO-8A2387?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚙️_Shipping-Life_OS_&_RAG_Agent-E94057?style=for-the-badge&labelColor=0D1117" />
+<br>
+<img src="https://img.shields.io/badge/📚_Learning-System_Design-F27121?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎯_Goal-Top_Tier_SWE-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
-<br clear="right">
+<br><br>
+
+> ⚡ *Fun fact: consistency in coding beats motivation, every single time.*
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F27121,50:E94057,100:8A2387&height=4&section=header" width="100%">
 

@@ -57,11 +57,19 @@ public class Sahil extends SoftwareEngineer {
 > ⚡ *Fun fact: consistency in coding beats motivation, every single time.*
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="42%" valign="top">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=400&color=00F7FF&center=false&vCenter=true&multiline=true&repeat=true&width=420&height=170&lines=%24+booting+sahil.exe...;%5B%E2%9C%93%5D+loading+java+core;%5B%E2%9C%93%5D+mounting+spring-boot;%5B%E2%9C%93%5D+syncing+react-frontend;%5B%E2%9C%93%5D+connecting+mysql;%5B%E2%9C%93%5D+deploy+success;%3E+ready+to+ship+%F0%9F%9A%80" />
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%">
+<br>
+
+**Skill Level**
+```
+Java        ████████████████░░  85%
+Spring Boot ██████████████░░░░  75%
+React       █████████████░░░░░  70%
+DSA         ███████████████░░░  78%
+```
 
 </td>
 </tr>
@@ -139,20 +147,10 @@ Currently deep in DSA + System Design grind
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F27121,50:E94057,100:8A2387&height=4&section=header" width="100%">
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sahilshaikh450/sahilshaikh450/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
-<sub>⚠️ Animated snake needs a one-time GitHub Action setup on your profile repo — ask me and I'll write the workflow file for you.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2387,50:E94057,100:F27121&height=4&section=header" width="100%">
-
 ## 🏆 Trophy Room
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh450&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh450&theme=onedark&row=2&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ## 📊 GitHub Analytics

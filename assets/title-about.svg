@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="About Me">
+<title>About Me</title>
+<defs>
+  <linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="0" x2="900" spreadMethod="reflect">
+    <stop offset="0" stop-color="#4facfe"/><stop offset=".33" stop-color="#a855f7"/><stop offset=".66" stop-color="#ff00cc"/><stop offset="1" stop-color="#4facfe"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="900 0" dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="192" x2="900" y1="0" y2="0"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ff00cc" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .t{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes in{from{opacity:0;transform:translateX(-30px)}to{opacity:1;transform:none}}
+  .bar{transform-box:fill-box;transform-origin:top;animation:grow .6s both}
+  @keyframes grow{from{transform:scaleY(0)}}
+  .ln{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 1.4s .4s ease-out forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .dot{animation:run 3.5s 1.6s ease-in-out infinite;opacity:0}
+  @keyframes run{0%{transform:translateX(0);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(682px);opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect class="bar" x="4" y="14" width="6" height="36" rx="3" fill="url(#ink)"/>
+<path class="t" fill="url(#ink)" d="M26.7 43H32.4L33.9 38.4H41.1L42.6 43H48.4L40.9 21.2H34ZM35.1 34.4 35.4 33.5C36.1 31 36.7 28.2 37.4 25.3C38.1 28.2 38.8 31 39.6 33.5L39.9 34.4ZM61.1 43.2C64.7 43.2 67.7 40.4 67.7 34.8C67.7 29.1 64.6 26.4 61.1 26.4C58.5 26.4 57.1 28 56.5 29.4H56.4V21.2H51.3V43H56.3V40.3H56.5C57.1 41.8 58.6 43.2 61.1 43.2ZM59.4 39.2C57.4 39.2 56.3 37.5 56.3 34.8C56.3 32.1 57.4 30.4 59.4 30.4C61.3 30.4 62.4 32.2 62.4 34.8C62.4 37.5 61.3 39.2 59.4 39.2ZM78.5 43.3C83.6 43.3 86.7 39.9 86.7 34.9C86.7 29.8 83.6 26.4 78.5 26.4C73.4 26.4 70.3 29.8 70.3 34.9C70.3 39.9 73.4 43.3 78.5 43.3ZM78.5 39.4C76.5 39.4 75.5 37.6 75.5 34.8C75.5 32.1 76.5 30.3 78.5 30.3C80.5 30.3 81.5 32.1 81.5 34.8C81.5 37.6 80.5 39.4 78.5 39.4ZM95.7 43.2C98.3 43.2 99.9 41.7 100.8 39.5L100.9 43H105.7V26.6H100.6V36C100.6 37.9 99.4 39 97.8 39C96.1 39 95.1 37.9 95.1 36.1V26.6H90V37.1C90 40.8 92.2 43.2 95.7 43.2ZM118.4 26.6H115.4V22.7H110.3V26.6H108.1V30.4H110.3V38.4C110.3 41.6 112.1 43.2 115.6 43.2C116.6 43.2 117.7 43.1 118.8 42.8L118.1 39.1C117.9 39.2 117.1 39.3 116.7 39.3C115.8 39.3 115.4 38.9 115.4 38V30.4H118.4ZM128.6 43H133.8V33.6C133.8 32 133.6 28.5 133.6 25.7C134.3 28.7 135.2 32 135.7 33.6L138.9 43H143.2L146.3 33.6C146.8 31.9 147.7 28.5 148.5 25.4C148.4 28.4 148.3 31.9 148.3 33.6V43H153.5V21.2H145.4L142.7 29.7C142.2 31.2 141.5 34.3 141 36.9C140.5 34.3 139.9 31.2 139.4 29.7L136.6 21.2H128.6ZM165 43.3C169 43.3 171.6 41.5 172.5 38.7L167.9 37.9C167.5 39 166.4 39.6 165.1 39.6C163.1 39.6 161.8 38.4 161.7 36.1H172.7V34.8C172.7 29.4 169.4 26.4 164.8 26.4C159.9 26.4 156.7 29.8 156.7 34.9C156.7 40.1 159.8 43.3 165 43.3ZM161.8 33.1C162 31.3 163 30.1 164.8 30.1C166.6 30.1 167.6 31.2 167.8 33.1Z"/>
+<path class="ln" d="M192 33H896" stroke="url(#fade)" stroke-width="2" stroke-linecap="round"/>
+<circle class="dot" cx="192" cy="33" r="4" fill="#ff00cc"/>
+</svg>

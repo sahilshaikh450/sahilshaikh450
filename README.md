@@ -1,160 +1,192 @@
-<a href="https://sahilshaikh450.github.io/portfolio/">
-  <img width="100%" src="assets/header.svg" alt="Sahil Shaikh - Software Engineer" />
-</a>
-
 <div align="center">
 
-<a href="https://sahilshaikh450.github.io/portfolio/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Building+full+stack+products+with+Java+%2B+React;LIFE+OS+%C2%B7+AVIRO+%C2%B7+Resume+Enhancer+%E2%80%94+all+live;300%2B+LeetCode+problems+%C2%B7+contest+rating+1713;If+it's+broken%2C+I'll+fix+it+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:302b63,40:8A2387,70:E94057,100:F27121&height=300&section=header&text=SAHIL%20SHAIKH&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20✦%20MCA%20Student%20✦%20Full%20Stack%20Builder&descAlignY=52&descAlign=50&descSize=20" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3C+Java+%2B+Spring+Boot+Developer+%2F%3E;%3C+DSA+Problem+Solver+%2F%3E;%3C+Building+AVIRO+%2C+Life+OS+%26+RAG+Agent+%2F%3E;%3C+Future+Software+Engineer+%F0%9F%9A%80+%2F%3E" />
 
 <br>
 
-<a href="https://sahilshaikh450.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sahil-shaikh-004b0b270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Sahilshaikh87/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:sahilshaikh34088@gmail.com"><img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://sahilshaikh450.github.io/portfolio/Sahil-Shaikh-Resume.pdf"><img src="https://img.shields.io/badge/Resume-4facfe?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="3">
 
-<img src="https://komarev.com/ghpvc/?username=sahilshaikh450&color=a855f7&style=flat-square&label=Profile+views" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sahilshaikh450&color=8A2387&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/dynamic/json?color=E94057&style=for-the-badge&label=Followers&query=followers&url=https://api.github.com/users/sahilshaikh450" />
+<img src="https://img.shields.io/github/stars/sahilshaikh450?style=for-the-badge&color=F27121&label=Stars&logo=github" />
+<img src="https://img.shields.io/badge/Status-Shipping%20Code-00F7FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2387,50:E94057,100:F27121&height=4&section=header" width="100%">
+
+## 🧑‍🚀 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```java
+public class Sahil extends SoftwareEngineer {
+
+    private String   role      = "MCA Student @ MIT WPU, Pune";
+    private String[] stack     = {"Java", "Spring Boot", "React", "MySQL"};
+    private String[] focus     = {"DSA", "System Design", "Full Stack Dev"};
+    private boolean  shipping  = true;
+
+    public static void main(String[] args) {
+        while (shipping) {
+            code();
+            learn();
+            deploy();          // Render | Vercel | Railway
+            repeat();          // consistency > motivation
+        }
+    }
+}
+```
+
+<img src="https://img.shields.io/badge/🔭_Building-AVIRO-8A2387?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚙️_Shipping-Life_OS_&_RAG_Agent-E94057?style=for-the-badge&labelColor=0D1117" />
 <br>
+<img src="https://img.shields.io/badge/📚_Learning-System_Design-F27121?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎯_Goal-Top_Tier_SWE-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
-<img width="100%" src="assets/title-about.svg" alt="About Me" />
+<br><br>
 
-<img width="100%" src="assets/terminal.svg" alt="whoami: Sahil Shaikh, Software Engineer from Pune. MCA @ MIT WPU, BCA CGPA 8.6. Stack: Java, Spring Boot, React, MySQL, Next.js, Docker. 300+ LeetCode problems, contest rating 1713. Open to Software Engineer roles and internships." />
+> ⚡ *Fun fact: consistency in coding beats motivation, every single time.*
 
-- 🏆 **2nd place**, Decode to Code (PCCOE) &nbsp;·&nbsp; **3rd place**, Prompt-a-Thon (PCCOE)
-- 📜 **JPMorgan Chase & Co.** Software Engineering Job Simulation &nbsp;·&nbsp; **HackerRank** Java, SQL, Problem Solving &nbsp;·&nbsp; **Cisco** Networking Basics
-- 🏃 District-level **Kho-Kho** player, *Best Sport Person* & *Best Volunteer* in college
+<br clear="right">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F27121,50:E94057,100:8A2387&height=4&section=header" width="100%">
 
-<img width="100%" src="assets/title-stack.svg" alt="Tech Stack" />
+## 🛠 Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php&theme=dark&perline=6" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark&perline=6" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,github,postman,vercel,vscode,figma&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase&theme=dark&perline=6" />
 <br><br>
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_LLMs-F55036?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_·_FAISS-a855f7?style=flat-square)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,vercel&theme=dark&perline=6" />
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2387,50:E94057,100:F27121&height=4&section=header" width="100%">
 
-<img width="100%" src="assets/title-projects.svg" alt="Featured Projects" />
+## 🚀 Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ LIFE OS
-**Full stack productivity suite**
+### 🚕 AVIRO
+**Affordable Verified Intelligent Ride Organizer**
 
-Habit tracker with streaks & heatmap, Kanban task engine, Pomodoro timer and expense analytics, all in one dashboard. **20+ REST APIs** with Spring Security, JWT & role-based access; Dockerised backend with CI/CD on every push.
+College ride-sharing platform for Pune students, rebuilt from a vanilla JS/HTML prototype into a full Spring Boot + React app.
 
-`React` `Spring Boot` `Spring Security` `JWT` `Docker`
+`Spring Boot` `React` `MySQL (Aiven)` `Render` `Vercel`
 
-<a href="https://life-os-eight-ashy.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+![](https://img.shields.io/badge/status-active--build-00F7FF?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚕 AVIRO
-**Affordable, Verified & Intelligent Ride Organizer**
+### 🧠 RAG Agent
+**Retrieval-Augmented Generation, from scratch**
 
-College ride-sharing for Pune students with **AI college-ID verification (96% accuracy, Gemini Vision)**, real-time WebSocket chat, live GPS tracking, UPI payments and SOS alerts.
+Custom RAG pipeline with vector search and LLM-powered retrieval.
 
-`Spring Boot` `React` `MySQL` `Redis` `WebSocket` `Docker`
+`React` `Node.js` `LangChain.js` `Groq LLaMA 3` `FAISS`
 
-<a href="https://aviro-affordable-verified-intellige.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/sahilshaikh450/AVIRO---Affordable-Verified-Intelligent-Ride-Organizer"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+[🔗 View Repo](https://github.com/sahilshaikh450/rag-agent)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Resume Enhancer
-**AI career preparation platform**
+### 🗂 Life OS
+**Personal Productivity Suite**
 
-ATS resume analyzer, AI resume builder, cover-letter generator, interview Q&A and a career-coach chatbot, powered by **Groq (Llama 3) + RAG**.
+Full stack productivity app with OTP auth, SendGrid email integration, and a multi-tab settings dashboard.
 
-`Next.js` `Node.js` `Express.js` `MongoDB` `Groq AI` `Tailwind`
-
-<a href="https://resume-enhancer-psi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+`Spring Boot` `React` `Railway` `Vercel` `SendGrid`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🌐 Portfolio Website
-**Hand-built personal site**
-
-Responsive portfolio with a signature animated intro, scroll animations, light/dark theme and detailed project pages, built without any framework.
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://sahilshaikh450.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Site-a855f7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="https://github.com/sahilshaikh450/portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="140">
+<br>
+More projects incoming 👀
+<br>
+Currently deep in DSA + System Design grind
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F27121,50:E94057,100:8A2387&height=4&section=header" width="100%">
 
-<img width="100%" src="assets/title-stats.svg" alt="GitHub &amp; LeetCode Stats" />
+## 🏆 Trophy Room
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh450&theme=onedark&row=2&column=4&margin-w=10&margin-h=10" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilshaikh450&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff00cc&text_color=c9d1d9&ring_color=a855f7" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh450&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+## 📊 GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=sahilshaikh450&hide_border=true&background=0d1117&ring=a855f7&fire=ff00cc&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sahilshaikh450&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=E94057&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh450&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&cache_seconds=1800"/>
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilshaikh450&hide_border=true&bg_color=0d1117&color=c9d1d9&title_color=a855f7&line=a855f7&point=ff00cc&area=true&area_color=a855f7" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sahilshaikh450&theme=radical&hide_border=true&background=0D1117&ring=E94057&fire=F27121&currStreakLabel=00F7FF" />
+</p>
 
-<a href="https://leetcode.com/u/Sahilshaikh87/">
-<img src="https://leetcard.jacoblin.cool/Sahilshaikh87?theme=dark&font=Fira%20Code&ext=contest" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilshaikh450&theme=redical&hide_border=true&bg_color=0D1117&color=00F7FF&line=E94057&point=F27121" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=sahilshaikh450&theme=github_dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F27121,50:E94057,100:8A2387&height=4&section=header" width="100%">
+
+## 🔥 LeetCode Progress
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Sahilshaikh87?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2387,50:E94057,100:F27121&height=4&section=header" width="100%">
+
+## 🔗 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sahil-shaikh-004b0b270/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/Sahilshaikh87/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://github.com/sahilshaikh450" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:sahilshaikh34088@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilshaikh450/sahilshaikh450/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilshaikh450/sahilshaikh450/output/snake-light.svg" />
-  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/sahilshaikh450/sahilshaikh450/output/snake-dark.svg" />
-</picture>
-
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<br>
-
-<img width="100%" src="assets/title-connect.svg" alt="Let's Connect" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=180&section=footer&animation=twinkling" />
 
 <div align="center">
 
-**Open to full-time Software Engineer roles, internships & freelance work.**
-<br>
-Fastest way to reach me: **[sahilshaikh34088@gmail.com](mailto:sahilshaikh34088@gmail.com)**
-
-<br>
-
-<a href="https://sahilshaikh450.github.io/portfolio/"><img src="https://img.shields.io/badge/Visit_my_Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sahil-shaikh-004b0b270/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### ⭐ Code • Learn • Build • Repeat ⭐
+**"Success in coding comes from consistency, not intensity."**
 
 </div>
-
-<img width="100%" src="assets/footer.svg" alt="If it's beautiful, I'll build it. If it's broken, I'll fix it." />

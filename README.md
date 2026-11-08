@@ -164,6 +164,9 @@ Currently deep in DSA + System Design grind
 ## 🔗 Let's Connect
 
 <p align="center">
+<a href="https://sahilshaikh450.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-8A2387?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/sahil-shaikh-004b0b270/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
